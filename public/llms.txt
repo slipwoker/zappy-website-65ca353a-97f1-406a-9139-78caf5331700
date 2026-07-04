@@ -1,0 +1,86 @@
+# Agami CakePops — Generative Engine Optimization Map
+
+> A high-end premium dessert ordering website with an elegant, minimalist aesthetic and luxury pastry shop vibes. The brand centers around gourmet confections — like a stunning strawberry mousse cake on a minimalist ceramic plate — presented with sleek, appetizing visual storytelling. The design philosophy is rooted in sophistication: clean layouts, bold typography, a warm jewel-toned color palette, and a seamless 'Order Now' experience that feels indulgent yet effortless.
+
+---
+
+## Pages
+
+### בית
+https://agami-cakepops-65ca353a.zappy5.app
+התפנקו בקינוחי גורמה מעוצבים בעבודת יד, החל ממיני עוגות ועד קינוחים מיוחדים לאירועים. כנסו עכשיו לחוויית הזמנה אלגנטית ומפנקת באגמי.
+
+### שירותים
+https://agami-cakepops-65ca353a.zappy5.app/services
+גלו מגוון שירותי קונדיטוריה יוקרתיים: קינוחים לאירועים, מיני עוגות בעיצוב אישי וקינוחים מיוחדים שמותאמים לכל חגיגה. התחילו לעצב את הרגע המתוק שלכם.
+
+### אודות
+https://agami-cakepops-65ca353a.zappy5.app/about
+הכירו את אגמי CakePops — מותג קינוחי פרימיום שמביא אמנות, תשוקה וטעמים עיליים לכל ביס. הצטרפו למסע המתוק וגלו למה אנחנו כל כך מיוחדים.
+
+### צור קשר
+https://agami-cakepops-65ca353a.zappy5.app/contact
+רוצים קינוחים מעוצבים לאירוע הקרוב? צרו קשר עם אגמי CakePops עוד היום וקבלו ייעוץ אישי להזמנת קינוחים מיוחדים שיהפכו כל מעמד לבלתי נשכח.
+
+### תודה - Agami CakePops
+https://agami-cakepops-65ca353a.zappy5.app/thank-you
+Agami CakePops - תודה - Agami CakePops
+
+## Legal & Policy
+
+### Privacy Policy
+https://agami-cakepops-65ca353a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://agami-cakepops-65ca353a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://agami-cakepops-65ca353a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://agami-cakepops-65ca353a.zappy5.app/contact
+- Endpoint: https://agami-cakepops-65ca353a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `event_type` (select)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Agami CakePops
+A high-end premium dessert ordering website with an elegant, minimalist aesthetic and luxury pastry shop vibes. The brand centers around gourmet confections — like a stunning strawberry mousse cake on a minimalist ceramic plate — presented with sleek, appetizing visual storytelling. The design philosophy is rooted in sophistication: clean layouts, bold typography, a warm jewel-toned color palette, and a seamless 'Order Now' experience that feels indulgent yet effortless.
+
+## Target Audience
+- luxury dessert lovers, high-end food enthusiasts
+- חובבי קינוחים יוקרתיים
+- חובבי אוכל גורמה
+- מתכנני אירועים
+- קינוחים מעוצבים
+- קינוחים
+
+## Industry
+Food & Beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://agami-cakepops-65ca353a.zappy5.app/sitemap.xml
+- Robots: https://agami-cakepops-65ca353a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://agami-cakepops-65ca353a.zappy5.app/llms-full.txt
