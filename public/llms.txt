@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://agami-cakepops-65ca353a.zappy5.app
+https://example.com
 התפנקו בקינוחי גורמה מעוצבים בעבודת יד, החל ממיני עוגות ועד קינוחים מיוחדים לאירועים. כנסו עכשיו לחוויית הזמנה אלגנטית ומפנקת באגמי.
 
 ### שירותים
-https://agami-cakepops-65ca353a.zappy5.app/services
+https://example.com/services
 גלו מגוון שירותי קונדיטוריה יוקרתיים: קינוחים לאירועים, מיני עוגות בעיצוב אישי וקינוחים מיוחדים שמותאמים לכל חגיגה. התחילו לעצב את הרגע המתוק שלכם.
 
 ### אודות
-https://agami-cakepops-65ca353a.zappy5.app/about
+https://example.com/about
 הכירו את אגמי CakePops — מותג קינוחי פרימיום שמביא אמנות, תשוקה וטעמים עיליים לכל ביס. הצטרפו למסע המתוק וגלו למה אנחנו כל כך מיוחדים.
 
 ### צור קשר
-https://agami-cakepops-65ca353a.zappy5.app/contact
+https://example.com/contact
 רוצים קינוחים מעוצבים לאירוע הקרוב? צרו קשר עם אגמי CakePops עוד היום וקבלו ייעוץ אישי להזמנת קינוחים מיוחדים שיהפכו כל מעמד לבלתי נשכח.
 
 ### תודה - Agami CakePops
-https://agami-cakepops-65ca353a.zappy5.app/thank-you
+https://example.com/thank-you
 Agami CakePops - תודה - Agami CakePops
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://agami-cakepops-65ca353a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://agami-cakepops-65ca353a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://agami-cakepops-65ca353a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://agami-cakepops-65ca353a.zappy5.app/contact
-- Endpoint: https://agami-cakepops-65ca353a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://agami-cakepops-65ca353a.zappy5.app/sitemap.xml
-- Robots: https://agami-cakepops-65ca353a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://agami-cakepops-65ca353a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

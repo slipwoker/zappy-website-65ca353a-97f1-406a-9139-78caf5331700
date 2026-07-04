@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://agami-cakepops-65ca353a.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
